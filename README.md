@@ -33,6 +33,7 @@ python main.py --file products.csv --where "rating>4.5" --order-by "rating=desc"
 
 ```bash
 pytest
+pytest --cov=workmate --cov-report=term-missing
 ```
 
 ## Автор

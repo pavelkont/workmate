@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.csv
+.vscode/
+.idea/
+.pytest_cache/
+.vs/
+.coverage
+workmate.pyproj
+workmate.sln
